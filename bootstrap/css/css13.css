@@ -1,0 +1,11 @@
+.b1, .b2, .b3, .b4, .b5, .b6, .b7, .b8, .b9, .b10, .b11, .b12{
+    height: 120px;
+    background-color: gold;
+}
+.b2, .b5{
+    height: 160px;
+}
+.b13{
+    height: 100px;
+    background-color: gold;
+}
